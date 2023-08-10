@@ -1,0 +1,9 @@
+<apex:page controller="WatermarkDemoController" contentType="img/jpg">
+    <html>
+        <head></head>
+        <body>
+            <apex:image value="{!imageUrl}"></apex:image>
+            <div style="position: absolute; top: 8px; left: 16px; font : 24px verdana; color: #FF0000; font-weight: 500;" class="watermark">Watermarked..!!</div>
+        </body>
+    </html>
+</apex:page>
