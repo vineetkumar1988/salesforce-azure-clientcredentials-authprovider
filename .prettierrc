@@ -1,5 +1,6 @@
 {
   "trailingComma": "none",
+<<<<<<< HEAD
   "overrides": [
     {
       "files": "**/lwc/**/*.html",
@@ -11,3 +12,22 @@
     }
   ]
 }
+=======
+  "tabWidth": 4,
+  "printWidth": 120,
+  "overrides": [
+    {
+      "files": "**/lwc/**/*.html",
+      "options": {
+        "parser": "lwc"
+      }
+    },
+    {
+      "files": "*.{cmp,page,component}",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
+>>>>>>> 842605b47d454f2e36852ddba26ebcbf65434407

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "orgName": "Demo company",
+=======
+  "orgName": "mheisterberg company",
+>>>>>>> 842605b47d454f2e36852ddba26ebcbf65434407
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
   "settings": {

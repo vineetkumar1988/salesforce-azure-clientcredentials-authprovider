@@ -5,8 +5,14 @@
       "default": true
     }
   ],
+<<<<<<< HEAD
   "name": "Personal-Dev-Vineet2022",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "57.0"
+=======
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "51.0"
+>>>>>>> 842605b47d454f2e36852ddba26ebcbf65434407
 }

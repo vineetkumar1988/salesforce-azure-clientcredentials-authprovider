@@ -12,5 +12,9 @@
 **/aura/**/*.svg
 **/aura/**/*.tokens
 **/aura/**/*.xml
+<<<<<<< HEAD
 **/aura/**/*.app
 .sfdx
+=======
+.sfdx
+>>>>>>> 842605b47d454f2e36852ddba26ebcbf65434407
